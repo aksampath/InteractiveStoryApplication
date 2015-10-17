@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Interactive Story</string>
+    <string name="start_button">START YOUR ADVENTURE</string>
+    <string name="main_screen_name_text">Enter Your Name</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="tag_name">name</string>
+</resources>
